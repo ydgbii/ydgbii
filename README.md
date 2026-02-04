@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter 
 - 💞️ I’m looking to collaborate on future projects 
 - 📫 How to reach me:
-  ~instagram & telegram: @ydgbii
+  ~instagram & telegram: @ysdilbar
   ~email: davronovna0607@gmail.com
 <!---
 ydgbii/ydgbii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
